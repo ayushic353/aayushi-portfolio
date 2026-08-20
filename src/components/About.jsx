@@ -3,7 +3,7 @@ import useReveal from "../hooks/useReveal";
 const HIGHLIGHTS = [
   { label: "Education", value: "VIT — Computer Science" },
   { label: "Focus", value: "Full-Stack Development" },
-  { label: "Specialization", value: "AI/ML & NLP" },
+  { label: "Domain", value: "Data Analytics & Applied AI" },
   { label: "Track record", value: "3 Internships Completed" },
 ];
 
