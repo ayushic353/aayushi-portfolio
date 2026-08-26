@@ -28,7 +28,7 @@ export default function Experience() {
               <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 mb-3">
                 <h3 className="font-display text-xl sm:text-2xl font-semibold text-ink">
                   {job.role}
-                  <span className="text-ink-muted font-normal"> — {job.company}</span>
+                  <span className="text-ink-muted font-normal"> - {job.company}</span>
                 </h3>
                 <span className="font-mono text-xs text-ink-faint whitespace-nowrap">{job.dates}</span>
               </div>
