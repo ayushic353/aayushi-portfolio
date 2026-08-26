@@ -1,10 +1,9 @@
 import useReveal from "../hooks/useReveal";
 
 const HIGHLIGHTS = [
-  { label: "Education", value: "VIT — Computer Science" },
+  { label: "Education", value: "VIT - Computer Science" },
   { label: "Focus", value: "Full-Stack Development" },
   { label: "Domain", value: "Data Analytics & Applied AI" },
-  { label: "Track record", value: "3 Internships Completed" },
 ];
 
 export default function About() {
@@ -22,10 +21,10 @@ export default function About() {
 
         <div>
           <p className="text-ink-muted text-base sm:text-lg leading-relaxed">
-            I'm a Computer Science Engineering student at Vellore Institute of
-            Technology (2023–2027, CGPA 7.11), building toward full-stack and
-            AI/ML engineering roles. My work spans production-grade React and
-            Node.js applications, RESTful API design, and applied NLP —
+            I'm a final year Computer Science Engineering student at Vellore Institute of
+            Technology (2023–2027), building toward full-stack, AI/ML engineering and
+            data engineering roles. My work spans production-grade 
+            React and Node.js applications, RESTful API design, and applied NLP
             including retrieval-augmented generation systems and fine-tuned
             language models for real classification problems.
           </p>
