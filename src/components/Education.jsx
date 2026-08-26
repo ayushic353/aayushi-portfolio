@@ -4,14 +4,13 @@ const EDUCATION = [
   {
     school: "Vellore Institute of Technology",
     degree: "B.Tech in Computer Science",
-    dates: "2023 – 2027",
+    dates: "2023 - 2027",
     detail: "CGPA: 7.11",
     location: "Vellore, Tamil Nadu",
   },
   {
     school: "St. Paul Jr. College",
-    degree: "Class XII — MSBSHSE",
-    dates: "2019 – 2021",
+    degree: "Class XII ",
     detail: "93.17%",
     location: "Nagpur, Maharashtra",
   },
@@ -24,7 +23,7 @@ const CERTIFICATIONS = [
   },
   {
     name: "Python Programming with Tkinter & Database",
-    issuer: "Task CompuSys, Pune — Grade: A+",
+    issuer: "Task CompuSys, Pune : Grade: A+",
   },
 ];
 
